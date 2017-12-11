@@ -34,7 +34,7 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 /**
- * Benchmark Class
+ * Sftp Class
  *
  * This class enables you to use sFTP methods
  * as like as CodeIgniter's default FTP Library
